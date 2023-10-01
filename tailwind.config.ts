@@ -5,7 +5,7 @@ import radixPlugin from 'tailwindcss-radix'
 import { extendedTheme } from './app/utils/extended-theme.ts'
 
 export default {
-	content: ['./app/**/*.{ts,tsx,jsx,js}'],
+	content: ['./app/**/*.{ts,tsx,jsx,js}', './stories/**/*.{ts,tsx,jsx,js}'],
 	darkMode: 'class',
 	theme: {
 		container: {
