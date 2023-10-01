@@ -1,5 +1,5 @@
 import { type StoryObj, type Meta } from '@storybook/react'
-import { Field } from '~/components/forms.tsx'
+import { Field } from '#/app/components/forms.tsx'
 
 export default {
 	component: Field,

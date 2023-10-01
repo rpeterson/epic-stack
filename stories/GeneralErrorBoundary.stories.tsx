@@ -1,8 +1,8 @@
 import { type StoryObj, type Meta } from '@storybook/react'
-import { GeneralErrorBoundary } from '~/components/error-boundary.tsx'
+import { GeneralErrorBoundary } from '#/app/components/error-boundary.tsx'
 import { unstable_createRemixStub as createRemixStub } from '@remix-run/testing'
 import { Form } from '@remix-run/react'
-import { Button } from '~/components/ui/button.tsx'
+import { Button } from '#/app/components/ui/button.tsx'
 
 export default {
 	title: 'ErrorBoundary',

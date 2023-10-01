@@ -1,5 +1,5 @@
 import { type StoryObj, type Meta } from '@storybook/react'
-import { CheckboxField } from '~/components/forms.tsx'
+import { CheckboxField } from '#/app/components/forms.tsx'
 
 export default {
 	component: CheckboxField,

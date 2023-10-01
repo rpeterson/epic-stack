@@ -1,5 +1,5 @@
 import { type StoryObj, type Meta } from '@storybook/react'
-import { TextareaField } from '~/components/forms.tsx'
+import { TextareaField } from '#/app/components/forms.tsx'
 
 export default {
 	component: TextareaField,

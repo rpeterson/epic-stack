@@ -1,4 +1,4 @@
-import { Confetti } from '~/components/confetti.tsx'
+import { Confetti } from '#/app/components/confetti.tsx'
 import { type StoryObj, type Meta } from '@storybook/react'
 
 export default {

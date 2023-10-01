@@ -1,5 +1,5 @@
 import { type StoryObj, type Meta } from '@storybook/react'
-import { ErrorList } from '~/components/forms.tsx'
+import { ErrorList } from '#/app/components/forms.tsx'
 
 export default {
 	component: ErrorList,

@@ -1,5 +1,5 @@
 import { type StoryObj, type Meta } from '@storybook/react'
-import { Spacer } from '~/components/spacer.tsx'
+import { Spacer } from '#/app/components/spacer.tsx'
 
 export default {
 	component: Spacer,
